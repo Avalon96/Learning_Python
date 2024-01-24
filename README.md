@@ -1,1 +1,1 @@
-This is my Python tutorial works.
+My Python tutorial work.
